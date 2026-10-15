@@ -51,7 +51,7 @@ This experiment is based on [TinyLLaVA Factory](https://github.com/TinyLLaVA/Tin
 
 ```bash
 cd AdamPM/TinyLLaVA_Factory
-bash scripts/train/train_qwen2_05b_base_adampm.sh.sh
+bash scripts/train/train_qwen2_05b_base_adampm.sh
 ```
 
 ## Prepare the datasets
