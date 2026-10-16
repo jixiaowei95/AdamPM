@@ -1,4 +1,3 @@
-export HF_ENDPOINT=https://hf-mirror.com
 export HF_HOME="Data/GLUE"  # Create your cache directory
 export HF_HUB_OFFLINE=1
 export CUDA_VISIBLE_DEVICES=7
