@@ -1,0 +1,17 @@
+torch
+transformers==4.31.0
+bitsandbytes
+tokenizers
+datasets
+peft
+swanlab
+loguru
+nvitop
+lion-pytorch
+matplotlib
+scipy
+scikit-learn
+evaluate
+numpy
+tqdm
+accelerate
