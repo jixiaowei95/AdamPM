@@ -3,7 +3,7 @@
 cd -- "$(dirname -- "${BASH_SOURCE[0]}")/../.." || exit 1
 
 export PYTHONPATH="$PWD${PYTHONPATH:+:$PYTHONPATH}"
-export HF_ENDPOINT="https://hf-mirror.com"
+
 export HF_HUB_DISABLE_IMPLICIT_TOKEN=1
 
 FINETUNE_DATA_PATH=/home/ai/data/llava/dataset/text_files/llava_v1_5_mix665k.json
