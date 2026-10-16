@@ -1,5 +1,3 @@
-export HF_ENDPOINT=https://hf-mirror.com
-export NO_PROXY="127.0.0.1,localhost,::1,hf-mirror.com"
 export CUDA_VISIBLE_DEVICES=0
 
 torchrun --standalone --nproc_per_node 1 torchrun_main.py \
