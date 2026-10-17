@@ -14,7 +14,7 @@ The required Python dependencies include `torch`, `transformers`, `datasets`, `n
 
 ## Run pre-training
 
-Run the commands as follows, 
+Run the commands as follows:
 
 ```bash
 cd AdamPM/LLaMA_PreTraining
